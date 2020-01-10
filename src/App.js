@@ -18,9 +18,10 @@ function App() {
         >
           Learn React
         </a>
+        <a href="http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html">Test GitHub Actions</a>
       </header>
     </div>
-  );
+  )
 }
 
 export default App;
