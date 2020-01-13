@@ -16,12 +16,11 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Hello World
         </a>
-        <a href="http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html">Test GitHub Actions</a>
       </header>
     </div>
-  )
+  );
 }
 
 export default App;
